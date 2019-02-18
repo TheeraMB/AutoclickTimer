@@ -1,0 +1,118 @@
+[Compiler]
+A=1
+B=0
+C=1
+D=1
+E=0
+F=0
+G=1
+H=1
+I=1
+J=1
+K=0
+L=1
+M=0
+N=1
+O=1
+P=1
+Q=0
+R=0
+S=0
+T=0
+U=0
+V=1
+W=0
+X=1
+Y=1
+Z=1
+ShowHints=1
+ShowWarnings=1
+UnitAliases=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[Linker]
+MapFile=0
+OutputObjs=0
+ConsoleApp=1
+DebugInfo=0
+RemoteSymbols=0
+MinStackSize=16384
+MaxStackSize=1048576
+ImageBase=4194304
+ExeDescription=
+[Directories]
+OutputDir=D:\MBsource\op
+UnitOutputDir=F:\MBsource\OUTPUTDCU
+PackageDLLOutputDir=
+PackageDCPOutputDir=
+SearchPath=D:\MBWIN_DEV\MBhooks;D:\mbwin_dev\mblib;D:\MBWIN_DEV\CIF\Groups;D:\MBWIN_DEV\Reports\SubReport Utility;D:\MBWIN_DEV\CollectionSheet;D:\MBWIN_DEV\Reports
+Packages=Vcl50;Vclx50;VclSmp50;Vcldb50;vclado50;ibevnt50;Vclbde50;vcldbx50;Qrpt50;TeeUI50;TeeDB50;Tee50;Dss50;TeeQR50;VCLIB50;Vclmid50;vclie50;Inetdb50;Inet50;NMFast50;webmid50;dclocx50;dclaxserver50;rbTDBC51;rbRCL55;rbCIDE55;rbIDE55;rbBDE55;rbRIDE55;rbRAP55;rbDBDE55;rbDAD55;rbDIDE55;rbUSER55;rbDB55;rbADO55;rbIBE55;dxmdsD5;dxcomnD5;dxdbtrD5;dxtrmdD5;EQTLD5;dxEdtrD5;ECQDBCD5;dxDBEdD5;EQGridD5;dxGrEdD5;cxLibraryVCLD5;cxEditorsD5;dxThemeD5;cxDataD5;cxExtEditorsD5;cxGridD5;cxGridUtilsD5;ip50_d5;csccs50;RxDB5;RxBDE5;ThemeManager5;VirtualTreesD5;CSP20I50;cxCommonEditingD5;cxVerticalGridD5;VT_Addons
+Conditionals=
+DebugSourceDirs=
+UsePackages=0
+[Parameters]
+RunParams=
+HostApplication=D:\mbsource\OP\MBWin.exe
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=5
+MinorVer=1
+Release=1
+Build=216
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=3081
+CodePage=1252
+[Version Info Keys]
+CompanyName=The FAO-GTZ Microbanker Project
+FileDescription=
+FileVersion=5.1.1.216
+InternalName=MBCUSTOM.dll
+LegalCopyright=The FAO-GTZ Microbanker Project
+LegalTrademarks=@FAO-GTZ Microbanker
+OriginalFilename=MBCUSTOM.dll
+ProductName=The FAO-GTZ Microbanker System
+ProductVersion=5.1.1E
+Release Info=EXTE MBCUSTOM-EMT
+Comments=Built By Jirote
+CompileDate=Monday, February 16, 2015 10:15 AM
+[Excluded Packages]
+$(DELPHI)\RBuilder\Lib\dclDAD55.bpl=ReportBuilder Data Access Environment
+$(DELPHI)\RBuilder\Lib\dclRAP55.bpl=ReportBuilder RAP Language
+$(DELPHI)\Projects\Bpl\DCLRXBD5.bpl=RX Library BDE Database Components
+$(DELPHI)\Projects\Bpl\DclRxDb5.bpl=RX Library Database Components
+$(DELPHI)\Projects\Bpl\VirtualTreesD5D.bpl=Virtual Treeview (design time)
+$(DELPHI)\RBuilder\Lib\dclRBC51.bpl=ReportBuilder TeeChart 4.0 Components
+$(DELPHI)\RBuilder\Lib\dclRBU55.bpl=ReportBuilder Sample Components
+C:\windows\system32\rbADO55.bpl=ReportBuilder Data Access for ADO
+C:\WINDOWS\System32\rbIBE55.bpl=ReportBuilder Data Access for Interbase Express
+$(DELPHI)\Bin\dclwbm50.bpl=Borland InternetExpress Components
+$(DELPHI)\Bin\dclite50.bpl=Borland Integrated Translation Environment
+[HistoryLists\hlUnitAliases]
+Count=1
+Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+[HistoryLists\hlSearchPath]
+Count=3
+Item0=D:\MBWIN_DEV\MBhooks;D:\mbwin_dev\mblib;D:\MBWIN_DEV\CIF\Groups;D:\MBWIN_DEV\Reports\SubReport Utility;D:\MBWIN_DEV\CollectionSheet;D:\MBWIN_DEV\Reports;D:\MBWIN_DEV\Login;D:\MBWIN_DEV\Utils\mbzip\mbzip;D:\MBWIN_DEV\Login
+Item1=D:\Frames
+Item2=$(DELPHI)\Projects\Bpl;C:\Program Files\Woll2Woll\ip2000d5\package
+[HistoryLists\hlUnitOutputDirectory]
+Count=4
+Item0=F:\MBsource\OUTPUTDCU
+Item1=c:\temp\dcu
+Item2=D:\WorkingDir\DCUs
+Item3=E:\Workingdir\DCUs
+[HistoryLists\hlOutputDirectorry]
+Count=2
+Item0=D:\MBsource\op
+Item1=D:\Output
+[HistoryLists\hlBPLOutput]
+Count=2
+Item0=$(DELPHI)\Projects\Bpl
+Item1=C:\Program Files\Borland\Delphi5\Projects\Bpl
+[HistoryLists\hlDCPOutput]
+Count=2
+Item0=$(DELPHI)\Projects\Bpl
+Item1=C:\Program Files\Borland\Delphi5\Projects\Bpl
